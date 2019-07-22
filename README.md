@@ -13,4 +13,4 @@ This front-end coding challenge is taken from *forntendmentor.io*
 * CSS
 
 ### Check it live:
-< https://vai1205.github.io/frontend-practice-project/>
+<https://vai1205.github.io/frontend-practice-project/>
