@@ -249,13 +249,15 @@ h3 {
 .footer-top {
   position: relative;
   top: 73rem;
+  width: 100%;
+  height: auto;
 }
 
 .footer-content {
   position: relative;
   top: 72rem;
   background-color: #09252e;
-  width: 102%;
+  width: 101.1%;
   height: 25rem;
 }
 
